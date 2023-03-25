@@ -4,6 +4,6 @@ public class Cat extends Animal {
 
     @Override
     public String whatIsYourName() {
-        return "My name is Cat";
+        return "My name is Catto";
     }
 }
